@@ -6,3 +6,11 @@ This tiny tutorial has you do the following:
 - write a Go package that checks to see what mascot you choose
 - implement a main.go file to run the mascot package
 - create a test to check your package is running correctly
+
+### Files
+
+|   #   | File             | Description                                        |
+| :---: | ---------------- | -------------------------------------------------- |
+|   1   | mascot/[mascot.go](https://github.com/baogtrang/4143-PLC/blob/main/Assignments/P01/mascot/mascot.go)        |       |
+|   2   | HelperClass.cpp  | Helper class that holds movement functions         |
+|   3   | TextureClass.cpp | Helper class that assists with textures and images |
