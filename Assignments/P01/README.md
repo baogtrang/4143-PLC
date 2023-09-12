@@ -12,5 +12,7 @@ This tiny tutorial has you do the following:
 |   #   | File             | Description                                        |
 | :---: | ---------------- | -------------------------------------------------- |
 |   1   | mascot/[mascot.go](https://github.com/baogtrang/4143-PLC/blob/main/Assignments/P01/mascot/mascot.go)        |       |
-|   2   | HelperClass.cpp  | Helper class that holds movement functions         |
-|   3   | TextureClass.cpp | Helper class that assists with textures and images |
+|   2   | mascot/[mascot_test.go](https://github.com/baogtrang/4143-PLC/blob/main/Assignments/P01/mascot/mascot_test.go)        |       |
+|   3   | [go.mod](https://github.com/baogtrang/4143-PLC/blob/main/Assignments/P01/go.mod)  |         |
+|   4   | [main.go](https://github.com/baogtrang/4143-PLC/blob/main/Assignments/P01/main.go) |  |
+|  5 | [README.md](https://github.com/baogtrang/4143-PLC/blob/main/Assignments/P01/README.md) |   |
