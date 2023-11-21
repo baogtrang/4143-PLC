@@ -26,3 +26,7 @@ Program 4 - Concurrent Image Downloader is a Go-based project designed to demons
 - The images will be saved in the project directory with unique names.
 - Ensure the URLs in `urls.txt` are direct links to image files.
 - The program includes error handling for failed downloads or invalid URLs.
+
+#### Result:
+- Sequential download took: 3.255296s
+- Concurrent download took: 120.9027ms
